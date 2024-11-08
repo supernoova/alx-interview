@@ -1,1 +1,1 @@
-porject 0x05 N Queens
+project 0x05 nqueens
